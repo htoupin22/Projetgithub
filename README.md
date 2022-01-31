@@ -1,5 +1,5 @@
-__=GitHub pages__
+# GitHub pages
 
-__Clonner Projet__
+## Clonner Projet
 
 git clone 
