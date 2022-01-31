@@ -1,7 +1,5 @@
-GitHub_pages
+__GitHub pages__
 
-How to setup the project
-
-Clone the Project
+__Clonner Projet__
 
 git clone 
